@@ -1,5 +1,33 @@
 # Git Style Guide
+## Table of Contents
+- [Git Style Guide](#git-style-guide)
+  - [Table of Contents](#table-of-contents)
+  - [Purpose](#purpose)
+  - [Quick Reference](#quick-reference)
+    - [Repository Setup](#repository-setup)
+    - [Branches](#branches)
+    - [Commits](#commits)
+    - [Merges](#merges)
+  - [Repository Setup](#repository-setup-1)
+    - [Owner](#owner)
+    - [Repository name](#repository-name)
+    - [Description](#description)
+    - [Public vs. Private](#public-vs-private)
+      - [Good public repositories](#good-public-repositories)
+      - [Good private repositories](#good-private-repositories)
+    - [Add a README file](#add-a-readme-file)
+    - [Add .gitignore](#add-gitignore)
+  - [Branches](#branches-1)
+    - [Deleting Merged Branches](#deleting-merged-branches)
+    - [Default Branch](#default-branch)
+    - [Feature Branches](#feature-branches)
+    - [Bug Fix Branches](#bug-fix-branches)
+  - [Commits](#commits-1)
+    - [Good commit messages](#good-commit-messages)
+    - [Bad commit messages](#bad-commit-messages)
+  - [Merges](#merges-1)
 
+---
 ## Purpose
 Define a style guide for using version control with Git, specifically for use with Ignition. This includes naming for repositories, default branches, feature branches, commit messages, and pull request messages, among other things.
 

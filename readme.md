@@ -33,13 +33,13 @@ Define a style guide for using version control with Git, specifically for use wi
 
 ## Quick Reference
 ### Repository Setup
-| Name | Default |
+| Item | Style |
 | :---: | :---: |
 | Name | `my-repository-name` |
 | Description | `A Brief description of the repository` (not empty) |
 
 ### Branches
-| Name | Default Name |
+| Branch | Style |
 | :---: | :---: |
 | Default Branch | `main` |
 | Development | `dev` |
@@ -48,12 +48,12 @@ Define a style guide for using version control with Git, specifically for use wi
 | Bug Fix | `bugfix/my-bug-fix` |
 
 ### Commits
-| Name | Default Name |
+| Item | Default |
 | :---: | :---: |
 | Commit Message | `Brief Commit Description` |
 
 ### Merges
-| Name | Default Name |
+| Item | Default |
 | :---: | :---: |
 | Merge Type | Squash (recommended) <br> or Merge Commit |
 

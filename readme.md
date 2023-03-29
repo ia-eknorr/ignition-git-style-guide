@@ -127,7 +127,7 @@ Release: `release`
 - Feature branches should begin with `feature/` then have a short (1-4 words) description of the feature with the words separated by dashes (`-`)
 
 ### Bug Fix Branches
-`feature/my-new-feature`
+`bugfix/bug-reference-name`
 
 - Feature branches should begin with `bugfix/` then have a short (1-4 words) description of the bug fix with the words separated by dashes (`-`)
 

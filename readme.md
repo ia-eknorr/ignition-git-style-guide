@@ -23,7 +23,6 @@
     - [Deleting Merged Branches](#deleting-merged-branches)
     - [Default Branch](#default-branch)
     - [Feature Branches](#feature-branches)
-    - [Bug Fix Branches](#bug-fix-branches)
   - [Commits](#commits-1)
     - [Good commit messages](#good-commit-messages)
     - [Bad commit messages](#bad-commit-messages)
@@ -144,15 +143,11 @@ Release: `release`
 
 ### Feature Branches
 
-`feature/my-new-feature`
+`user/my-new-feature`
 
-- Feature branches should begin with `feature/` then have a short (1-4 words) description of the feature with the words separated by dashes (`-`)
-
-### Bug Fix Branches
-
-`bugfix/bug-reference-name`
-
-- Feature branches should begin with `bugfix/` then have a short (1-4 words) description of the bug fix with the words separated by dashes (`-`)
+- Feature or bug fix branches should begin with a user to differentiate your branches from others', then have a short (1-4 words) description of the feature with the words separated by dashes (`-`)
+- ex: `eknorr/add-test-script`
+- ex: `jsmith/fix-readme-typos`
 
 ---
 
@@ -160,7 +155,7 @@ Release: `release`
 
 Each commit should contain a message (`git commit -m "<Commit message here>"`). These messages are required by Git and should contain a brief description of what is contained in the commit. If one is not provided, a vim document will appear in the console asking for a commit message (or `:q` if you'd like to quit).
 
-Some prefer to prepend `Feature:` or `Chore:` before their commit message. This can be used to give a quick categorization to each commit for someone visually searching through commit messages.
+Some prefer to prepend commit messages with a category of the commit, such as `Feature:`, `Chore:`, `Bugfix:`, etc. This can be used to give a quick categorization to each commit for someone visually searching through commit messages.
 
 > :memo: **_Note_**: If it's difficult to sum up your work in a brief commit message, that could be an indicator that you're trying to fit too much into a single commit. Consider breaking up the work into more than one commit.
 

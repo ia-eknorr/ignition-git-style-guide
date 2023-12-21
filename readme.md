@@ -27,6 +27,7 @@
     - [Good commit messages](#good-commit-messages)
     - [Bad commit messages](#bad-commit-messages)
   - [Merges](#merges-1)
+    - [Questions? Requests?](#questions-requests)
 
 ---
 
@@ -182,3 +183,7 @@ Some prefer to prepend commit messages with a category of the commit, such as `F
 - Different types of merges exist. Recommended merge styles are:
   - **Merge Commit**: Used to merge branches with few commits
   - **Squash and Merge**: Used to merge branches with many commits. This option essentially makes a commit with a list of each commit in the feature branch as the default description.
+
+### Questions? Requests?
+
+If you have any questions, have a suggestion for something to add, or notice something that doesn't look right, open an issue or submit a pull request.

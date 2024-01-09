@@ -51,8 +51,8 @@ Define a style guide for using version control with Git, specifically for use wi
 | Default Branch | `main` |
 | Development | `dev` |
 | Release | `release` |
-| Feature | `feature/my-new-feature` |
-| Bug Fix | `bugfix/my-bug-fix` |
+| Feature | `username/my-new-feature` |
+| Bug Fix | `username/my-bug-fix` |
 
 ### Commits
 
@@ -64,7 +64,7 @@ Define a style guide for using version control with Git, specifically for use wi
 
 | Item | Default |
 | :---: | :---: |
-| Merge Type | Squash (recommended) <br> or Merge Commit |
+| Merge Type | Merge commit <br> or Squash |
 
 ---
 
@@ -144,7 +144,7 @@ Release: `release`
 
 ### Feature Branches
 
-`user/my-new-feature`
+`username/my-new-feature`
 
 - Feature or bug fix branches should begin with a user to differentiate your branches from others', then have a short (1-4 words) description of the feature with the words separated by dashes (`-`)
 - ex: `eknorr/add-test-script`

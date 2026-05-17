@@ -1,11 +1,9 @@
 # Git Style Guide
 
 > [!IMPORTANT]
-> This content has moved. The Git Style Guide content from this repository is now part of [ignition-guides](https://ia-eknorr.github.io/ignition-guides/), the modern community resource for DevOps workflows with Ignition.
+> This repository is archived. The Git Style Guide content has moved to [ignition-guides](https://ia-eknorr.github.io/ignition-guides/), the community resource for modern DevOps workflows with Ignition.
 >
 > Go directly to: **[Git Style Guide](https://ia-eknorr.github.io/ignition-guides/docs/reference/git-style-guide)**
->
-> This repository will be archived once the linked forum post is updated.
 
 ## Table of Contents
 

@@ -1,5 +1,10 @@
 # Git Style Guide
 
+> [!IMPORTANT]
+> This repository is archived. The Git Style Guide content has moved to [ignition-guides](https://ia-eknorr.github.io/ignition-guides/), the community resource for modern DevOps workflows with Ignition.
+>
+> Go directly to: **[Git Style Guide](https://ia-eknorr.github.io/ignition-guides/docs/reference/git-style-guide)**
+
 ## Table of Contents
 
 - [Git Style Guide](#git-style-guide)
